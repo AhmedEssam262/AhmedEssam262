@@ -22,17 +22,7 @@ I’m interested in Web development and Embedded system
 How to reach me Email : ahmed.essameldin262@gmail.com  
   
 
-<br/>  
-
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-
-
-</td></tr></table>  
+ 
 
 <br/>  
 
