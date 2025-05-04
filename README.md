@@ -15,9 +15,9 @@
 
 
 ### Glad to see you here!  
-I’m a Student at faculty of engineering Ainshams university, , Electrical Engineering, Computer and Systems Engineering
+I’m a software engineer graduated from  faculty of engineering Ainshams university, , Electrical Engineering, Computer and Systems Engineering
 
-I’m interested in Web development and Embedded system
+I’m interested in Web/Mobile development  and Embedded system
  I’m currently learning Software Engineering
 How to reach me Email : ahmed.essameldin262@gmail.com  
   
